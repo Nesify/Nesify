@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nesify
 - 👀 I’m interested in cracking stuff
 - 🌱 I’m currently learning c# + c++
-- 📫 How to reach me why tf will i tell you my discord NOOB
+- 📫 How to reach me Nesify#5631
