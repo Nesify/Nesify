@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Nesify
 - 👀 I’m interested in cracking stuff
 - 🌱 I’m currently learning c# + c++
-- 📫 Im not doing this to expost skids
+- 📫 Im not doing this to expose skids
